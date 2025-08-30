@@ -1,5 +1,3 @@
-import fetch from 'node-fetch'
-
 // eslint-disable-next-line no-unused-vars
 export const handler = async (event, context) => {
   const { city } = event.queryStringParameters
