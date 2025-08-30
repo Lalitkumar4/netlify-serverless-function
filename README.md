@@ -138,10 +138,10 @@ netlify-serverless-function/
 
 ## 🙏 Acknowledgments
 
-- [OpenWeatherMap](https://openweathermap.org/) for weather data
-- [Lucide React](https://lucide.dev/) for beautiful icons
-- [Tailwind CSS](https://tailwindcss.com/) for styling
-- [Netlify](https://netlify.com/) for hosting and serverless functions
+- OpenWeatherMap for weather data
+- Lucide React for beautiful icons
+- Tailwind CSS for styling
+- Netlify for hosting and serverless functions
 
 ## 📞 Support
 
